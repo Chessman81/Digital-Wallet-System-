@@ -134,4 +134,5 @@ Visit [http://localhost:3000/api-docs](http://localhost:3000/api-docs) for Swagg
 
 
 *Questions?*  
-Open an issue or contact [your.email@example.com](mailto:meherpk17@gmail.com).
+Open an issue or contact [meherpk17@gmail.com](mailto:meherpk17@gmail.com)
+
